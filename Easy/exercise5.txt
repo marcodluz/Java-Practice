@@ -1,0 +1,24 @@
+//RESOLVED IN 04:19.41
+
+You have been tasked with writing a function that takes in a list of integers and returns the largest number in the list.
+
+Write a function named "find_largest_number" that takes one parameter: a list of integers. The function should iterate over the list, keeping track of the largest number seen so far. Once all the numbers have been checked, return the largest number.
+
+Here's some sample input and output to help you test your function:
+
+Input:
+find_largest_number([1, 2, 3, 4, 5, 6])
+Output:
+6
+
+Input:
+find_largest_number([10, 20, 30, 40])
+Output:
+40
+
+Input:
+find_largest_number([-5, -3, -10, -1])
+Output:
+-1
+
+Good luck!

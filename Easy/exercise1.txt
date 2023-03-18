@@ -1,0 +1,34 @@
+//RESOLVED IN 12:37.62
+
+Imagine you are building a simple calculator program that takes two numbers and performs a basic arithmetic operation on them (addition, subtraction, multiplication, or division). You have already written the code to get input from the user for the two numbers and the operation to be performed, but you need to write the code to perform the calculation and display the result to the user.
+
+Write a function named "calculator" that takes three parameters: num1, num2, and operation. The function should perform the appropriate arithmetic operation on num1 and num2 based on the operation parameter and return the result. If the operation parameter is not one of the four valid values (addition, subtraction, multiplication, or division), the function should return None.
+
+Here's some sample input and output to help you test your function:
+
+Input:
+calculator(5, 3, 'addition')
+Output:
+8
+
+Input:
+calculator(10, 2, 'subtraction')
+Output:
+8
+
+Input:
+calculator(4, 7, 'multiplication')
+Output:
+28
+
+Input:
+calculator(10, 5, 'division')
+Output:
+2.0
+
+Input:
+calculator(7, 2, 'exponentiation')
+Output:
+None
+
+Good luck!

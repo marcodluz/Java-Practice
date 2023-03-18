@@ -1,0 +1,24 @@
+//RESOLVED IN 02:54.94
+
+You have been tasked with writing a function that takes in two strings and returns True if the second string is a substring of the first string, and False otherwise.
+
+Write a function named "is_substring" that takes two parameters: string1 and string2. The function should check if string2 is a substring of string1 and return True if it is, False otherwise.
+
+Here's some sample input and output to help you test your function:
+
+Input:
+is_substring("hello world", "world")
+Output:
+True
+
+Input:
+is_substring("python is fun", "java")
+Output:
+False
+
+Input:
+is_substring("racecar", "car")
+Output:
+True
+
+Good luck!

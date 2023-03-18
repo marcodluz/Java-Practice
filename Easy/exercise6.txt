@@ -1,0 +1,24 @@
+//RESOLVED IN 02:16.42
+
+You have been tasked with writing a function that takes in two strings and returns a new string that concatenates the two input strings, with a space in between.
+
+Write a function named "concatenate_strings" that takes two parameters: string1 and string2. The function should concatenate the two input strings with a space in between, and return the resulting string.
+
+Here's some sample input and output to help you test your function:
+
+Input:
+concatenate_strings("hello", "world")
+Output:
+"hello world"
+
+Input:
+concatenate_strings("python", "is fun")
+Output:
+"python is fun"
+
+Input:
+concatenate_strings("racecar", "driver")
+Output:
+"racecar driver"
+
+Good luck!

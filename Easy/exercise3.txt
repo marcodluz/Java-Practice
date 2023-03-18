@@ -1,0 +1,24 @@
+//RESOLVED IN 06:00.00
+
+You have been tasked with writing a function that takes in a string and returns the string in reverse order.
+
+Write a function named "reverse_string" that takes one parameter: a string. The function should create a new string that is the reverse of the input string and return it.
+
+Here's some sample input and output to help you test your function:
+
+Input:
+reverse_string("hello")
+Output:
+"olleh"
+
+Input:
+reverse_string("python")
+Output:
+"nohtyp"
+
+Input:
+reverse_string("racecar")
+Output:
+"racecar"
+
+Good luck!
